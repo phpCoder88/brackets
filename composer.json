@@ -1,7 +1,6 @@
 {
   "name": "php-coder88/brackets",
   "description": "Checks brackets",
-  "minimum-stability": "stable",
   "license": "MIT",
   "type": "library",
   "authors": [
